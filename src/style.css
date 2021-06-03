@@ -1,0 +1,108 @@
+body {
+  background-color: #1E90FF;  
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  border:1px;
+}
+
+.social{
+	display:flex;
+	align-items:center;
+  justify-content:center;
+ 
+}
+
+.icones{
+	width:22px;
+	height:22px;
+	transition: transform .3s ;
+	margin-right:auto;
+	margin-left:auto;
+  margin-top: 10px;
+}
+
+.icones:hover{
+	transform: scale(1.2);
+}
+
+section {
+  -webkit-box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59); 
+  box-shadow: 5px 5px 50px 8px rgba(0,0,0,0.59);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+  margin-top: 100px;
+  padding: 10px;
+  max-width: 500px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 20px;
+  display:flex;
+  justify-content: space-between;
+}
+
+header{
+  background-image: url('https://i.ibb.co/BZy2yNc/Capturar.png');
+  background-size: cover;
+  height: 80px;   
+  border-radius: 5px;
+}
+
+.titulo{
+  font-weight: bold;
+}
+
+
+.Bio{
+  text-align: left ;
+  padding: 10px;
+  border: 1px solid black;
+  background-color: #bac3d6;
+  border-radius: 5px;
+  margin-bottom: 25px;
+}
+
+.destaque {
+    text-align: center;
+    color: #0000EE;
+}
+  
+.projetos {
+  /* propriedade:     valor */
+  padding: 15px;
+  border: 1px solid black;
+  background-color: #bac3d6;
+  border-radius: 5px;
+}
+
+div a {
+  color: black;
+}
+
+div a.icon {
+  transition: text-shadow 0.5s;
+}
+
+div a.icon:active,
+div a.icon:hover {
+  text-shadow:0px 0px 10px #049c9f;
+}
+
+
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
+
