@@ -1,8 +1,6 @@
 <p align="center">
   <img alt="Projeto terminado" src="https://ibb.co/dk1fDJb">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
-
   <a href="https://codepen.io/felipelopes12/pen/xxgdWmd"></a>
   
 
