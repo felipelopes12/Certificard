@@ -1,5 +1,6 @@
-<p align="center">
-  <img alt="Projeto terminado" src="https://ibb.co/dk1fDJb">
+<h1 align="center">
+<img alt="Projeto terminado" src="https://ibb.co/dk1fDJb" width="400px" />
+</h1>
 
   <a href="https://codepen.io/felipelopes12/pen/xxgdWmd"></a>
   
