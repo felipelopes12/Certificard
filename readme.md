@@ -1,9 +1,3 @@
-<h1 align="center">
-<img alt="Projeto terminado" src="https://ibb.co/dk1fDJb" width="400px" />
-</h1>
-
-  <a href="https://codepen.io/felipelopes12/pen/xxgdWmd"></a>
-  
 
 <h4 align="center"> 
 	  Certificado Concluído 🚀 
@@ -33,7 +27,8 @@ A imersão DEV_ da Alura  é focada no aprendizado da linguagem JavaScript,guian
 Além disso, para que cada projeto ficasse bem apresentável foi realizado um breve momento nos ajustes dos códigos HTML e CSS.
 ---
 
+[Projeto original CodePen](https://codepen.io/felipelopes12/pen/xxgdWmd)<br />
 ⌨
 Feito por Amadeu Filipe Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/amadeu-filipe-lopes12/)
-⌨
+⌨<br />
 
