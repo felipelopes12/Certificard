@@ -22,10 +22,6 @@
 
 Projeto desenvolvido durante a **imersão Dev** oferecida pela [Alura](https://www.alura.com.br/).
 
-<p align="center">
-<img width="100%" src="img/Certificado.PNG">
-</p>
-
 A imersão DEV_ da Alura  é focada no aprendizado da linguagem JavaScript,guiando no processo de declaração de variáveis, objetos,
  laços condicionais, laços de repetição e funções, e em seu posterior uso dentro do código desenvolvido.
 Além disso, para que cada projeto ficasse bem apresentável foi realizado um breve momento nos ajustes dos códigos HTML e CSS.
